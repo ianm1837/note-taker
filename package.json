@@ -5,10 +5,13 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./src/index.js"
+    "start": "node ./src/index.js",
+    "startdev": "nodemon ./src/index.js"
   },
   "nodemonConfig": {
-    "ignore": ["db/db.json"]
+    "ignore": [
+      "db/db.json"
+    ]
   },
   "author": "",
   "license": "ISC",
