@@ -1,0 +1,11 @@
+{
+  "overrides": [
+    {
+      "files": "*.json",
+      "options": {
+        "printWidth": 10
+      }
+    }
+  ],
+  "singleQuote": true
+}
