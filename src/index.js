@@ -29,6 +29,10 @@ app.get('/api/notes', (req, res) => {
   res.json(getNotes());
 });
 
+app.get('*', (req, res) => {
+  res.send('what???', 404);
+});
+
 app.post('/api/notes', (req, res) => {
   const notes = getNotes();
   const newNote = {
