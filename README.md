@@ -8,6 +8,9 @@ This is a simple note taking app using express.
 
 Live Demo: https://ianm1873-note-taker.herokuapp.com/
 
+![Brave Browser - 2023-02-27 - 000008](https://user-images.githubusercontent.com/65581204/221668428-4ceb171f-7e62-4431-85a3-d7ce72926953.png)
+
+![Brave Browser - 2023-02-27 - 000010](https://user-images.githubusercontent.com/65581204/221668606-36507259-519f-4022-9d8c-37b17ac20cfd.png)
 
 
 ## Table of Contents
